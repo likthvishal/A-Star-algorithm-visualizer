@@ -6,7 +6,9 @@ A python visualization of the A* path finding algorithm. It allows you to pick y
 - TKinter
 - Pygame
 
-#Blue line indicates the path
+# Blue line indicates the path
+
+
 ![Screenshot of the visulizer](https://github.com/likthvishal/A-Star-algorithm-visualizer/blob/master/image2.PNG)
 
 
